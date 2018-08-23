@@ -122,7 +122,6 @@ def num_points_scored(player)
     team_info[:players]
     binding.pry
   end
- end
 end
 
 def shoe_size(player)
