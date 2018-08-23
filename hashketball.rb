@@ -120,7 +120,7 @@ end
 def num_points_scored(player)
   game_hash.each do |location, team_info|
     team_info[:players]
-    binding.pry
+    #binding.pry
   end
 end
 
